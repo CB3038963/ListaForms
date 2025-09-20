@@ -1,0 +1,10 @@
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\bin\Debug\TRIANGULOFORMS.exe.config
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\bin\Debug\TRIANGULOFORMS.exe
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\bin\Debug\TRIANGULOFORMS.pdb
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.Form1.resources
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.Properties.Resources.resources
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.csproj.GenerateResource.cache
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.exe
+C:\Users\Joana\source\repos\TRIANGULOFORMS\TRIANGULOFORMS\obj\Debug\TRIANGULOFORMS.pdb
